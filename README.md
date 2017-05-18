@@ -1,4 +1,4 @@
 # module3  handlebarjs
 
-https://module-3-handlebar.herokuapp.com
+https://rak-module-3-handlebars.herokuapp.com/
 # module-3-handlebars
